@@ -1,0 +1,30 @@
+
+/* Cores com nome em extenso */
+h1{
+    background: black;
+    color: white;
+}
+
+/* Cores Hexadecimal*/
+h2{
+    background: #8844ee;
+    color: #ffffff;
+} 
+
+/* Cores RGB*/
+h3{
+    background: rgb(165, 13, 13);
+    color: rgb(255,255,255);
+}
+
+/* Cores RGBA */
+h4{
+    background: rgba(11, 186, 90, 0.5);
+    color: rgba(red, green, blue, alpha);
+}
+
+a{
+    background: seagreen;
+    color: white;
+    font-size: 30px;
+}
