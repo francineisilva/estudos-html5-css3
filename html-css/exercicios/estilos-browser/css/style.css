@@ -1,0 +1,9 @@
+/* inherit =  herança */
+
+body{
+    color: tomato;
+}
+
+a{
+    color: inherit;
+}
