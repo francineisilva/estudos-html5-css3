@@ -1,0 +1,70 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px;
+}
+
+h1{
+    text-align: center;
+}
+
+.item{
+    background: #111;
+    color: #fff;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 4px;
+}
+
+h2{
+    margin: 0px;
+}
+
+span{
+    color: #febe01;
+}
+
+p{
+    color: #b2b2b2;
+}
+
+a{
+    display: inline-block;
+    background: #febe01;
+    text-decoration: none;
+    color: #332200;
+    padding: 10px;
+    border-radius: 4px;
+
+}
+/* .carro{
+    width: 50%;
+    background: #000;
+    color: #fff;
+    border-radius: 4px;
+    padding: 15px;
+    align-items: center;
+}
+
+.bicicleta{
+    margin: 10px;
+    width: 50%;
+    background: #000;
+    color: #fff;
+    border-radius: 4px;
+    padding: 15px;
+    align-items: center;
+} */
+
+
+/* Cores - 
+Amarelo1: #febe01
+Amarelo2: #332200
+Preto: #111
+Cinza: #b2b2b2
+Alinhar texto ao centro
+Bordas redondas 4px
+Titulo principal: h1
+nome do produto: h2
+Textos
+Carros e Bicicletas
+ */
